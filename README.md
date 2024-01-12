@@ -10,7 +10,7 @@ How to run the Dairy Farm Shop Management System Project (DFSMS)
 
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-5. Create a database with name dfsms
+5. Create a database with name ```dbsms```
 
 6. Import dfsms.sql file(given inside the zip package in SQL file folder)
 
